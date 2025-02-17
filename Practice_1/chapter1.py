@@ -24,3 +24,7 @@ first()
 second()
 
 
+# Comments in python
+# 1. Sigle line comments #Comments
+
+# 2. Multiple line comments 'commets' , '''comments''', "comments", """Comments"""
