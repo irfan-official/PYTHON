@@ -2,3 +2,9 @@ __pycache__
 .venv
 Documentation
 JUYPERTER
+Lib
+share
+Scripts
+jupyter
+pyvenv.cfg
+.ipynb_checkpoints
