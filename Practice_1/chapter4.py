@@ -1,22 +1,9 @@
+from array import *
 
 
 
-import pandas as pd
+my_array = array( 'd',[1, 2, 3, 4])  # 'i' represents integer type
+print(my_array)
 
-
-
-# Dist type and touple type list type
-
-
-dist_ = {"name": "Irfan"}
-
-list_ = ["value"]
-
-touple_ = ("value")
-
-
-
-
-set_ = (1,2,3,4,5,6)
-
-print(set_)
+for i in my_array:
+  print(i)
