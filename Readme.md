@@ -1,4 +1,4 @@
-# Thsis repository is for activity of learnig Pyhton language
+# This repository is for activity of my learnig Pyhton language
 
 ## Learning walk through
 
