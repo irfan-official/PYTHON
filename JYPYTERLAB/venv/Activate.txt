@@ -1,0 +1,7 @@
+run -> for activate virtual environment (venv)
+Scripts\activate
+
+run ->
+jupyter lab
+
+visit -> http://localhost:8888/lab

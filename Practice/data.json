@@ -1,0 +1,11 @@
+[
+    {"name": "Irfan",
+    "email":"contact@irfans.dev",
+    "age": "13",
+    "isMarried": "True"
+    }, 
+    {"name": "Naira",
+    "email":"naira@irfans.dev",
+    "age": "7",
+    "isMarried": "False"
+    }]

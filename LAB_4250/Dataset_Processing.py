@@ -1,16 +1,3 @@
-<<<<<<< HEAD
-import pandas as pd
-
-data = {'Age': [25, 30, 35, 40, 45], 'Salary': [50000, 60000, 70000, 80000, 90000]}
-df = pd.DataFrame(data)
-
-# Calculating mean and max values
-mean_values = df.mean()
-max_values = df.max()
-
-print("Mean Values:\n", mean_values)
-print("Max Values:\n", max_values)
-=======
 
 ## import and show a csv file
 import pandas as pd
@@ -47,7 +34,8 @@ new_drop_row = df.drop(index=1)
 # print(new_drop_row.head())
 
 ## - 5.3 Adding a cloumn
-df["New column"] = np.random.randint(1, 100, size=768);
+df["Height"] = np.random.randint(10, 100, size=768);
+df["Weight"] = np.random.randint(20, 200, size=768);
 # print(df.head(50))
 
 
@@ -72,13 +60,13 @@ df.loc[len(df)] = new_row
 
 row = df.iloc[10] # 10 is the row index
 
-print(row)
+# print(row)
 
 ## Task - 6.2 Extract a column
 
 column = df['Number of times pregnant']
 
-print(column)
+# print(column)
 
 
->>>>>>> 450eda88aff6576f856a2f052de89ddecdd2e80a
+# print(df.head())
